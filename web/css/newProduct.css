@@ -1,0 +1,26 @@
+.new{
+    width: 300px;
+    margin: 20px 100px; 
+
+}
+.new>h1{color: red;}
+.new>form>label{ 
+    display: inline-block;  
+    width  : 200px; 
+    line-height: 30px;
+}
+.new>form>input{
+      width  : 200px;
+      height: 18px;
+}
+.btnInsert{
+    padding:20px 10px 10px 0px;
+
+}
+.btnInsert>input{
+    background: #2a2a29;
+    color: #FFF;
+    width: 200px;
+    height: 30px;
+}
+.btnInsert>input:hover{box-shadow: 2px 3px 10px #999; }

@@ -1,0 +1,30 @@
+.nd{
+    margin: 20px 0 0px 40px ;
+}
+.col{
+    float: left; 
+    padding: 20px;
+    width: 280px;
+    height: 400px; 
+}
+.products{
+    text-align: center;
+    border: 1px solid #2a2a29;
+    border-radius: 10px; 
+    height: 400px;
+    padding: 20px 0 0 0 ;
+}
+.products:hover{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px gray;  
+    border: solid 3px gray; margin: -10px; 
+    text-align: center;}
+.addto{
+    width: 120px; 
+    height: 30px;
+    background: #2a2a29; 
+    color: #FFF;
+}
+.addto:hover{
+    background: #33a7d8; 
+}

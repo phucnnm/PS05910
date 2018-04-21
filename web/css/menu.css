@@ -1,0 +1,24 @@
+.menu > ul > li {
+    display: inline-block; 
+    position:relative; 
+}
+.menu > ul > li > a {
+    display:block; 
+    text-decoration:none; 
+    font-variant:small-caps;
+    font-size:18px; 
+    color:white; 
+    padding:0 10px; 
+    line-height:30px;
+}
+.menu > ul {
+    padding:0px;           
+    margin:0; 
+    list-style:none; 
+    margin-left: 1070px;}
+.menu > ul > li > a:hover {
+    Color:#0FF; 
+    text-decoration:double;
+}
+.menu{
+    background:#2a2a29;}

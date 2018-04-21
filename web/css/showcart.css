@@ -1,0 +1,40 @@
+.link > a {
+    text-decoration:none;
+    font-size:18px;
+    color: #000;}
+.link > a:hover {
+    Color:#1135b0;
+    text-decoration:double;
+}
+.show>h1{
+    color: red;
+}
+table,tr, td{ 
+    border:2px solid #333;
+    border-collapse:collapse; 
+    padding: 5px;} 
+td{
+    width: 150px;
+}
+.add{
+    text-align: center;
+}
+.add>a{
+    text-decoration:none;
+    color: blue;
+}
+.add>a:hover{
+    color: red;
+}
+.remove{
+    text-align: center;
+
+}
+.remove>input{
+    background: #FFF;
+    color:#2a2a29 ;
+}
+.remove>input:hover{
+    background: #33a7d8;
+    color: #FFF;
+}

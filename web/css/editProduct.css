@@ -1,0 +1,26 @@
+.edit{
+    width: 300px;
+    margin: 20px 100px; 
+
+}
+.edit>h1{color: red;}
+.edit>form>label{ 
+    display: inline-block;  
+    width  : 200px; 
+    line-height: 30px;
+}
+.edit>form>input{
+      width  : 200px;
+      height: 18px;
+}
+.btnUpdate{
+    padding:20px 10px 10px 0px;
+
+}
+.btnUpdate>input{
+    background: #2a2a29;
+    color: #FFF;
+    width: 200px;
+    height: 30px;
+}
+.btnUpdate>input:hover{box-shadow: 2px 3px 10px #999; }
